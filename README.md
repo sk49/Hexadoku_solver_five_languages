@@ -1,6 +1,6 @@
 # Hexadoku_solver_five_languages
 
-Hexadoku has been implemented in the following five languages
+A Hexadoku solver has been implemented in the following five languages
 1. Python
 2. Java
 3. Javascript
